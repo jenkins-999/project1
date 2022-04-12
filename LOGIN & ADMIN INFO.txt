@@ -1,0 +1,9 @@
+ADMIN URL = /admin/login
+
+Username: admin
+Password: admin
+
+
+
+Username: taylor
+Password: password
